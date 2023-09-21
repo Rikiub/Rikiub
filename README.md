@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align=center>
+  
+### -| Hello, it's me, Riki. |-
+
+</div>
+
+- I'm a mainly **Python** 🐍 programmer.
+- I love **bread** 🍞 and waifu girls ✨
+- I like draw ️✏ and **break** computers sometimes ️🖥️.
+- Have a **good** day 👏
 
 <!--
 **Rikiub/Rikiub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
