@@ -1,12 +1,8 @@
-<div align=center>
-  
-### -| Hello, it's me, Riki. |-
+### Hello, it's me, Riki.
 
-</div>
-
-- I'm a mainly **Python** 🐍 programmer.
-- I love **bread** 🍞 and waifu girls ✨
-- I like draw ️✏ and **break** computers sometimes ️🖥️.
+- I like make stuffs in **Python** 🐍
+- I like **bread** 🍞 and waifu girls ✨
+- I like draw ️✏ and break **computers** sometimes ️🖥️
 - Have a **good** day 👏
 
 <!--
