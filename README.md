@@ -5,5 +5,5 @@
 - I like draw ️✏️ and break **computers** sometimes ️🖥️
 - Have a **good** day 👏
 
-> [!NOTE]
+> [!NOTE]+ QUEEE
 > jaja
