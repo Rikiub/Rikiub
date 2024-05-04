@@ -3,4 +3,4 @@
 - I like make stuffs in **Python** 🐍
 - I like **bread** 🍞 and **cheese** 🧀
 - I like **draw** ️✏️ and break **computers** sometimes ️🖥️
-- Have a **good** day 👏
+- I like that you have a **good** day 👏
